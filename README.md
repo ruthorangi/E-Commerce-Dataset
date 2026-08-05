@@ -9,7 +9,8 @@ Which store is best performing?
 How are the products performing? with data showing unit sold, total sales and total profit?
 How is the stock concentration by store location?
 # Tools Used
-The dataset was cleaned and manipulated and transformed on the excel workbook and Power query and data visualization was done on Power BI and DAX measure
+The dataset was cleaned and manipulated and transformed on the excel workbook and Power query, Power BI and DAX measure
+
 <img width="352" height="455" alt="Sales" src="https://github.com/user-attachments/assets/77670875-c957-4d23-abb5-0512829b8edb" />
 
 <img width="393" height="455" alt="Product" src="https://github.com/user-attachments/assets/546aa9a9-b8f4-4eea-854c-34dbc3915479" />
@@ -21,13 +22,16 @@ The dataset was cleaned and manipulated and transformed on the excel workbook an
 The dashboard preview 
 
 <img width="1332" height="597" alt="E-Commerce Dashboard" src="https://github.com/user-attachments/assets/35207a4e-048d-4175-afd5-ee956cf398d6" />
+
 # Dashboard KPIs
 Units Sold, Total Sales, Total Profits, Top performing Stores, Top 5 selling products, Stock by Store location
+
 # Key Insights
 I identified total sales and profit in the time period of analysis.
 Compared store performances and determined the strongest revenue contributor
 Analyzed product level sales to identify the top-selling categories.
 Identified stock performance by store location.
+
 # Repository Contents
 E-Commerce Dashboard.pbix
 Sales.xlsx
