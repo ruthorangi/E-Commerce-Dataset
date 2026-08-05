@@ -33,11 +33,13 @@ Analyzed product level sales to identify the top-selling categories.
 Identified stock performance by store location.
 
 # Repository Contents
-E-Commerce Dashboard.pbix
+
+Product Analysis.pbix
+E-Commerce Dashboard screenshot
 Sales.xlsx
-Inventory.xlsx
-Products.xlsx
-Store_Location.xlsx
+Inventory.csv.xlsx
+Products.csv.xlsx
+Store.csv.xlsx
 READ.md
 
 Author; Ruth Orangi
