@@ -1,5 +1,5 @@
 # E-Commerce-Dataset
-A Power BI dashboard project analyzing an online store performance.   
+A Power BI dashboard project analyzing an online store performance.  
 # Project Overview
 This E commerce project uses data analysis and visualization techniques to examine online sales data. The dashboard helps identify the total sales, units sold, and total profit accrued over a certain period of time. The dashboard highlights store performance and stock by store location, and products sold.  
 # Business Problem
