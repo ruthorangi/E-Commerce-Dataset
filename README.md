@@ -1,5 +1,5 @@
 # E-Commerce-Dataset
-A Power BI dashboard project analyzing an online store performance. This dataset was  
+A Power BI dashboard project analyzing an online store performance.   
 # Project Overview
 This E commerce project uses data analysis and visualization techniques to examine online sales data. The dashboard helps identify the total sales, units sold, and total profit accrued over a certain period of time. The dashboard highlights store performance and stock by store location, and products sold.  
 # Business Problem
@@ -10,13 +10,13 @@ How are the products performing? with data showing unit sold, total sales and to
 How is the stock concentration by store location?
 # Tools Used
 The dataset was cleaned and manipulated and transformed on the excel workbook and data visualization was done on Power BI
-# Sales Analysis
+Sales Analysis
 <img width="352" height="455" alt="Sales" src="https://github.com/user-attachments/assets/77670875-c957-4d23-abb5-0512829b8edb" />
-# Product analysis
+Product analysis
 <img width="393" height="455" alt="Product" src="https://github.com/user-attachments/assets/546aa9a9-b8f4-4eea-854c-34dbc3915479" />
-# Store Analysis
+Store Analysis
 <img width="543" height="426" alt="Store location" src="https://github.com/user-attachments/assets/82c976ca-d37c-4154-b2ac-6de780541367" />
-# Inventory analysis
+Inventory analysis
 <img width="339" height="454" alt="Inventory " src="https://github.com/user-attachments/assets/20b1e9ff-a53d-4ebb-a29d-27392f7e584a" />
 The dashboard preview 
 <img width="1332" height="597" alt="E-Commerce Dashboard" src="https://github.com/user-attachments/assets/35207a4e-048d-4175-afd5-ee956cf398d6" />
